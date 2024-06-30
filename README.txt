@@ -10,7 +10,12 @@ These instructions are for VScode (Visual Studio Code)
 
 3. Download and install NodeJS from nodejs.org
 
-4. In the terminal type: npm start
+4. In the terminal write "npm i".
+    If the terminal is not open:
+        1. On the top you should find "Terminal"
+        2. Click on "Terminal" and click "New Terminal"
+
+5. In the terminal type: npm start
     Click enter.
 
-5. Now go to localhost5000. Now you should be able to see the application and use it.
+6. Now go to localhost5000. Now you should be able to see the application and use it.
